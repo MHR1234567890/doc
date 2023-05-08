@@ -1,0 +1,75 @@
+const I18n_zhCN = {
+  amountInput: {
+    thousand: 'mil',
+    tenThousand: 'diez mil',
+    hundredThousand: 'cien mil',
+    million: 'un millon',
+    tenMillion: 'diez millones',
+    hundredMillion: 'cien millones',
+    billion: 'un billón',
+  },
+  avatar: {
+    error: 'Avatar: Defina ambos, el nombre y el desc', //Translated the chinese part, need more context to understand what 'desc' refers to
+  },
+  calendar: {
+    year: 'Año',
+    month: 'Mes',
+    sunday: 'Domingo',
+    monday: 'Lunes',
+    tuesday: 'Martes',
+    wednesday: 'Miercoles',
+    thursday: 'Jueves',
+    friday: 'Viernes',
+    saturday: 'Sabado',
+  },
+  coupon: {
+    ruleBtn: 'Detalles de la regla',
+  },
+  filter: {
+    reset: 'Restablecer',
+    confirm: 'Confirmar',
+  },
+  footer: {
+    endLine: 'Tengo una linea inferior',
+  },
+  guide: {
+    nextBtn: 'Siguiente',
+    jumpBtn: 'Saltar',
+    overBtn: 'Entendido',
+  },
+  list: {
+    loadMore: 'Cargar más...',
+    loadOver: '-- Los datos se han cargado completamente --',
+  },
+  notice: {
+    detail: 'Ver detalles',
+  },
+  pageResult: {
+    refresh: 'Actualizar',
+    networkTitle: 'Hemos perdido conexión a internet',
+    errorTitle: 'Hemos encontrado un pequeño problema',
+    busyTitle: 'Por favor, espere un momento',
+    emptyTitle: 'Nada por aquí',
+    logoffTitle: 'El usuario ha cerrado sesión',
+    paymentTitle: 'Su Pago ha fallado',
+    redpacketTitle: 'Nada por aquí',
+    networkBrief: 'Error de conexión, porfavor revise su conexión a internet',
+    errorBrief: 'Por favor actualice la pagina he intente de nuevo más tarde',
+    busyBrief: 'Se encuentra en un traffico alto de red, por favor sea paciente',
+    emptyBrief: 'Lo sentimos, intentamos lo que pudimos',
+    logoffBrief: '',
+    paymentBrief: 'Por favor intente de nuevo',
+    redpacketBrief: 'Ven a recoger tu cupón más tempráno la próxima vez por favor',
+    timeOut: 'segundos',
+  },
+  searchBar: {
+    cancel: 'Cancelar',
+  },
+  verifyCode: {
+    label: 'Código de verificación',
+    placeholder: 'Ingrese el código de verificación',
+    sendBtn: 'Enviar código de verificación',
+    sendAgainBtn: 'Reenviar el código de verificación',
+    countDown: 'segundos para volver a intentar',
+  },
+};
